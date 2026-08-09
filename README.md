@@ -49,7 +49,9 @@ Estou sempre estudando e expandindo o lado Fullstack com **Node.js**, **PHP**, b
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CAdagoberto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CAdagoberto&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CAdagoberto&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CAdagoberto&theme=tokyonight)
+
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CAdagoberto&theme=tokyonight)
 
 </div>

@@ -16,9 +16,15 @@
 
 ## 🚀 Sobre mim
 
-Estudante de **ADS** (4º semestre · Estácio), estagiário de Front-end e freelancer. Desenvolvo interfaces responsivas com **React**, **Next.js** e **TypeScript**, integro **APIs REST** e versiono com **Git**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (4º semestre · Estácio · previsão de conclusão em **12/2026**), com foco em me tornar um **desenvolvedor Fullstack**. Hoje atuo como **estagiário de Front-end** e também como **freelancer**, criando e mantendo aplicações web no dia a dia.
 
-📍 Taboão da Serra, SP · 🌐 Inglês intermediário · ☁️ AWS Cloud Practitioner Essentials
+Trabalho principalmente com **React**, **Next.js** e **TypeScript**, construindo interfaces **responsivas e acessíveis**, integrando **APIs REST** e cuidando de bugs, performance e manutenção em produção. Uso **Git** no fluxo de trabalho em equipe e participo de revisões e reuniões técnicas.
+
+Antes de ir para o código no dia a dia, acumulei experiência em **análise de APIs RESTful**, suporte técnico e atendimento em **inglês** (e espanhol) na Foundever — inclusive em fluxos da plataforma PayPal — além de ter contribuído no desenvolvimento de um **chatbot interno** para ajudar na análise de falhas técnicas. Essa base me ajuda a comunicar bem, diagnosticar problemas e entregar com mais segurança.
+
+Estou sempre estudando e expandindo o lado Fullstack com **Node.js**, **PHP**, bancos (**MySQL**, **PostgreSQL**, **MongoDB**) e ferramentas como **Docker** e **AWS** (*Cloud Practitioner Essentials*).
+
+📍 **Taboão da Serra, São Paulo/SP** · 🌐 **Inglês intermediário** · 🎯 Aberto a oportunidades e novos desafios
 
 ---
 
@@ -43,7 +49,7 @@ Estudante de **ADS** (4º semestre · Estácio), estagiário de Front-end e free
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=CAdagoberto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAdagoberto&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CAdagoberto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CAdagoberto&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
